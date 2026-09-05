@@ -3,7 +3,7 @@ import pandas as pd
 
 # Configure mobile-first responsive viewport
 st.set_page_config(
-    page_title="Refractory Pre-Bid Intelligence",
+    page_title="MIRA - Market Intelligence & Refractory Analytics",
     page_icon="🏭",
     layout="wide",
     initial_sidebar_state="collapsed"
