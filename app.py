@@ -138,7 +138,7 @@ selected_scrap_str = st.sidebar.selectbox("Allocated Yard Inventory", list(SCRAP
 active_scrap = SCRAP_ASSAYS[selected_scrap_str]
 
 # ----------------- MAIN UI BANNER -----------------
-st.title("Refractory Pre-Bidding & Autonomous Formulation Platform")
+st.title("MIRA - Market Intelligence & Refractory Analytics")
 st.markdown(
     f"**Pipeline Signal:** `{selected_signal['client']}` | "
     f"**Asset:** `{selected_equipment}` ({selected_zone}) | "
